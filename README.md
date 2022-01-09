@@ -1,6 +1,6 @@
 ### Hi there, I'm Danny Antonelli 👋
 - 📝 I'm a B. Sc. student in Computer Science & Control Engineering
-- 🎯 I'm currently looking for a 2022 summer Internship
+- 👨‍💻 Incoming Software Engineer Intern at Meta
 
 [<img alt="LinkedIn | danny-antonelli" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 
